@@ -89,7 +89,8 @@ namespace Puzzles
         }
         
         public static List<string> Names()
-        {   List<string> NamesGreater5 = new List<string>();
+        {   
+            List<string> NamesGreater5 = new List<string>();
             List<string> ListOfNames = new List<string>(){
                 "Todd", "Tiffany", "Charlie", "Geneva", "Sydney"
             };
