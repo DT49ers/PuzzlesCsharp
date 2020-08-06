@@ -1,0 +1,12 @@
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.deps.json
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.runtimeconfig.json
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.runtimeconfig.dev.json
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.dll
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.pdb
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.csprojAssemblyReference.cache
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.AssemblyInfoInputs.cache
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.AssemblyInfo.cs
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.csproj.CoreCompileInputs.cache
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.dll
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.pdb
+/Users/jdtmacbook/Desktop/Coding_Assignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.genruntimeconfig.cache
